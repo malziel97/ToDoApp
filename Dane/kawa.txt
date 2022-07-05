@@ -1,0 +1,6 @@
+kawa
+kawa
+10
+dzis
+zielinskal
+false
